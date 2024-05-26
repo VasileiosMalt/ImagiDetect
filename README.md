@@ -13,7 +13,7 @@ An article was published connected to the methodology used to develop this progr
 ## Project Structure (Same for each model)
 
 - `classes.pkl`: Pickle file containing the class data.
-- `classifier.pkl`: Pickle file containing the trained classifier. **ATTENTION** : You will have to download that from [Hugging Face](Vasilis-Malt/ImagiDetect) due to GitHub filesize limits. You should download the corresponding classifier according to the model's folder name and place it into that folder. 
+- `classifier.pkl`: Pickle file containing the trained classifier. **ATTENTION** : You will have to download that from [Hugging Face](https://huggingface.co/Vasilis-Malt/ImagiDetect/tree/main) due to GitHub filesize limits. You should download the corresponding classifier according to the model's folder name and place it into that folder. 
 - `class_labels.npy`: Numpy file containing the class labels.
 - `imagidetect.py`: Script to perform inference on a set of images.
 - `predictions`: Directory where classified images are saved.
