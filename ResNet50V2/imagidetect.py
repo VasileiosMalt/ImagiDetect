@@ -78,7 +78,7 @@ def main():
     for class_name, index in class_labels.items():
         class_names[index] = class_name
 
-    print(f"Loaded class names: {class_names}")  # Debugging information
+    
     
     # Load test data
     test_generator = load_data(test_data_source)
