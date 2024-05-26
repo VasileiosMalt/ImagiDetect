@@ -114,7 +114,8 @@ python supplementary_program.py --dest_name images
 
 - Ensure that the test image folder is in the current working directory (same directory as the imagidetect.py script).
 - The supplementary program will run by default after inference unless the `--no_supplementary` flag is provided.
-- Tested Successfully In: Python 3.11.5
+- Tested Successfully in Python 3.11.5
+- This categorisation's accuracy (83%) is tested on images scraped using hashtags related to politics and political participation. That means that, if applied to "global" data, you might (or might not) notice worse accuracy. 
 
 ## Licence
 
