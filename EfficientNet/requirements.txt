@@ -1,0 +1,10 @@
+h5py
+joblib
+numpy
+pandas
+Pillow
+scikit_learn
+tensorflow
+tensorflow_intel
+torch
+ultralytics
