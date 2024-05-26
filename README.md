@@ -22,9 +22,25 @@ An article was published connected to the methodology used to develop this progr
 - `specific_requirements.txt`: Specific module versions used during testing.
 - `supplementary_program.py`: Script for supplementary processing of classified images.
 
-## Prerequisites
+## Classes
 
-- Python 3.11.5
+All classes:
+Simple Selfies, Artificial Selfies, Complex Selfies, Animal Protest, Action, Bikers, Mask Selfies, Near Wall, Neutral People Sit, Protest Far, Protest Selfies, Artificial Crowds, Crowds, Artificial Groupie, Complex Couple, Cooperation, Groupies Sign, Protest Couple, Groupies, Perf Costumes, Perf Lay Down, Performances, Drawings, Book Cover, Dolls, Clothing, Protest Materials, Artificial Pollution, Artificial Sea, Artificial Building, Drawn Selfies, Globe, Map, Artificial Simple, Artificial Animal, Artificial Flat, Artificial Drought, Artificial Fires, Artificial Flat2, Artificial Flat3, Artificial Forest, Artificial Garbage, Artificial Graph, Artificial Air, Artificial Infra, Artificial Protest Images, Threat, Meeting Deliberation, Baby, Bags, Bicycle, Blank1, Blank2, Bottle Items, Brushes, Card Pattern, Cats, Flowers, Clothing2, Buildings, Computer, Dist Pattern1, Dogs, Empty Spaces, Feet, Food Item2, Animals, Furniture, Gardening, Hand Bag, Ice, Make Up, Mug2, Neutral Wall, Newspaper, Pavement Pattern, Phone, Scenery Tree, Ship, Shoe, Skies, SunSet, Surroundings1, Surroundings2, Transport, Trunk, Under Water, Scenery Field, Water, Cars, Food Items, Motor Cycles, Scenery Water, Neutral Images, Ambiguous, Hand Objects, Hand Protest, Mug, Pollution, Threat Chaos Fire, Wind Energy
+
+The main ethnographically informed image categories are:
+- Protest Selfies
+- Crowds
+- Groupies
+- Performances
+- Protest Materials
+- Artificial Protest Images
+- Threat
+- Meeting Deliberation
+- Neutral Images
+- Ambiguous
+
+The rest are subcategories belonging to one of the main ones.
+
 
 ## Setup
 
