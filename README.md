@@ -2,8 +2,9 @@
 # ImagiDetect
 
 ImagiDetect is an image classification system designed for social research on visual political data. It uses a pre-trained model and object-detection-based analysis for ethnographically informed image classification.
-
-<img src="https://github.com/user-attachments/assets/113eea31-8e74-486e-8dc6-8d8c8e3f52b2" width="50%" height="50%" />
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/113eea31-8e74-486e-8dc6-8d8c8e3f52b2" width="60%" height="60%" />
+</p>
 
 ## Project Overview
 
