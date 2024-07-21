@@ -5,7 +5,7 @@ ImagiDetect is an image classification system designed for social research on vi
 <p align="center">
    <img src="https://github.com/user-attachments/assets/113eea31-8e74-486e-8dc6-8d8c8e3f52b2" width="60%" height="60%" />
 </p>
-
+<p align="center">Main classes - Subcategories not included (Images, on which persons are depicted, are AI-generated in this example image and not images from our dataset with real people for reasons of compliance with GDPR laws) </p>
 ## Project Overview
 
 This program was created for the ImagiDem project. The initial implementation for the develoment of the computational methodology of the project has been modernised (more recent models and python version are used). More information about the project can be found on the [ImagiDem website](https://csd.fi/imagidem/).
